@@ -35,3 +35,7 @@ ul {
   text-align: center;
 
 }
+ol {
+  line-height: normal;
+  font-size: 39;
+}
