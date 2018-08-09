@@ -8,3 +8,8 @@ h1 {
   font-size: 36;
   font-weight: bold;
 }
+h2 {
+  color: Red;
+  text-align: center;
+  font-size: 25;
+}
