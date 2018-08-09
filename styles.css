@@ -26,3 +26,8 @@ h5 {
 p {
   font-family: sans-serif;
 }
+ul {
+  line-height: 40px;
+  font-size: 25;
+  font-weight: normal;
+}
